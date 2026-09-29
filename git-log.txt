@@ -1,0 +1,73 @@
+commit 0eef11da3927e18b507cf13d29ddfbd9dfa8b5e5
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Tue Sep 29 10:44:01 2026 -0600
+
+    BD
+
+commit 7f1479ed61a5a05f70dce4b90007f6696beff381
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Tue Sep 29 10:36:28 2026 -0600
+
+    ayudas
+
+commit 31f807ba70d0021386acb88e67f1fc9332527f85
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Tue Sep 29 10:32:03 2026 -0600
+
+    capa vista
+
+commit 05b7f8c7800da2f3d713d96ee46774f27e9d2c63
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Tue Sep 29 10:30:32 2026 -0600
+
+    capa modelo
+
+commit cb99bbcbb3bd19c814e544af1cd0aaf05dd61a0e
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Tue Sep 29 10:29:08 2026 -0600
+
+    Capacontrolador
+
+commit f8cf95a5cfbb001e22889a52b443815a9bc5ba56
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Tue Sep 29 10:25:02 2026 -0600
+
+    ejecutable navegador
+
+commit 091179d83703838b7ffd98a340ffd474a7ea2716
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Tue Sep 29 10:23:08 2026 -0600
+
+    capavista
+
+commit 250b2ae482f9f1195f13bd6127bba2de445e818f
+Merge: e287de2 34f8f3b
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Tue Sep 29 10:18:42 2026 -0600
+
+    Merge branch 'CapaModelo_Navegador-9959-23-848'
+    aaaaaommit.
+
+commit 34f8f3b1055a23d9b6508768d3ccb0a8851f1dc9
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Tue Sep 29 10:17:00 2026 -0600
+
+    capa modelo
+
+commit e287de2404609138158505f6ec2f2b3659ec35be
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Tue Sep 29 10:13:05 2026 -0600
+
+    capa controlador
+
+commit 09c914bc936a71f534d186db4c688e073b58ecb1
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Mon Sep 28 18:43:48 2026 -0600
+
+    Inicial proyecto
+
+commit f414c498afdbaf970217efd1012204fbe9379647
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Mon Sep 28 18:41:50 2026 -0600
+
+    Initial commit
